@@ -1,0 +1,28 @@
+{
+  "menus": [
+    {
+      "id": 1,
+    "title": "Cơm Trưa",
+    "items": [
+      {"id": 1, "text": "Nui xào bò"},
+      {"id": 2, "text": "Cá rô kho nghệ"},
+      {"id": 3, "text": "Thịt sườm ram"},
+      {"id": 4, "text": "Khổ qua xào trứng"}
+    ]
+    },
+    {
+      "id": 2,
+      "title": "Ăn Sáng / Chiều",
+      "items": [
+        {"id": 5, "text": "Bún mọc 30k"},
+        {"id": 6, "text": "Bánh mỳ trứng 15k"},
+        {"id": 7, "text": "Sâm bổ lượng 15k"},
+        {"id": 8, "text": "Nước tắc 15k"}
+      ]
+    }
+  ],
+
+  "selected": [
+    2, 7
+  ]
+}
