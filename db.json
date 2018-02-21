@@ -22,7 +22,15 @@
     }
   ],
 
-  "selected": [
+  "selectedFoods": [
     2, 7
+  ],
+
+  "orders": [
+    {
+      "id": 1,
+      "name": "David",
+      "items": [2, 7]
+    }
   ]
 }
