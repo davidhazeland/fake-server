@@ -2,13 +2,13 @@
   "menus": [
     {
       "id": 1,
-    "title": "Cơm Trưa",
-    "items": [
-      {"id": 1, "text": "Nui xào bò"},
-      {"id": 2, "text": "Cá rô kho nghệ"},
-      {"id": 3, "text": "Thịt sườm ram"},
-      {"id": 4, "text": "Khổ qua xào trứng"}
-    ]
+      "title": "Cơm Trưa",
+      "items": [
+        {"id": 1, "text": "Nui xào bò"},
+        {"id": 2, "text": "Cá rô kho nghệ"},
+        {"id": 3, "text": "Thịt sườm ram"},
+        {"id": 4, "text": "Khổ qua xào trứng"}
+      ]
     },
     {
       "id": 2,
@@ -22,7 +22,7 @@
     }
   ],
 
-  "selectedFoods": [
+  "selected-foods": [
     2, 7
   ],
 
